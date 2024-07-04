@@ -1,0 +1,815 @@
+.navbar__s1__title{
+    width: 150px;
+    position: relative;
+    right: 200px;
+}
+.navbar{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   width: 100%;
+    gap: 10px;
+   position: sticky;
+    top: 0px;
+    background-color: white;
+    z-index: 1;
+    
+}
+.nis{
+    position: relative;
+    right: 500px;
+}
+.tis{
+    position: relative;
+    right: 400px;
+    bottom: 35px;
+
+}
+.kis{
+    position: relative;
+    right: 330px;
+    bottom: 70px;
+
+}
+.bis{
+    position: relative;
+    right: 250px;
+    bottom: 105px;
+
+}
+.navbar__s3 button{
+    background-color:black;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    position: relative;
+right: 300px;
+bottom: 0px;
+}
+.w{
+    text-align: center;
+}
+
+.visa{
+    width: 20px;
+  
+    
+}
+.ga{
+    width: 20px;
+    position: relative;
+    bottom: 5px;
+}
+.navbar__s1__title{
+    position: relative;
+    left: 20px;
+    
+}
+.vishnu__1{
+    background-color: #34E0A1;
+    border: #34E0A1 1px solid;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.section{
+    position: relative;
+
+}
+.cr7{
+    position: absolute;
+    width: 30px;
+    top: 15px
+    ;
+    left: 10px;
+}
+.placeholder{
+    left: 10px;
+}
+.p{
+    position: absolute;
+    top: 30px;
+    left: 50px;
+    background-color: #34E0A1;
+    border: 2px #34E0A1 solid;
+}
+hr{
+    width: 300px}
+.vishn{
+    border: rgb(201, 181, 181) 2px solid;
+    text-align: 
+    center;
+    width: 400px;
+    border-radius: 10px
+    ;
+   
+}
+.msd{
+    margin-bottom: 10px;
+    position: relative
+    ;
+    left: 40px;
+    top: 10px;
+border: none;
+width: 100%;
+font-size: 16px;
+background-color: transparent;
+margin-right: 10px;
+padding: 10px;
+
+
+
+display:flex;
+gap: 10px;
+align-items: center;
+
+
+}
+
+.ram{
+background-color: #34E0A1;
+border: #34E0A1 1px solid;
+padding: 10px;
+border-radius: 20px;
+padding: 10px;
+margin-left: 10px;
+margin-right: 10px;
+}
+input:focus{
+outline: none;
+}
+.vai{
+    padding: 10px;
+}
+.vai__container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: ;
+    margin-top: 10px;
+    gap: 20px
+    ;
+    
+}
+.tai__container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: ;
+    margin-top: 50px;
+    gap: 20px
+    ;
+    
+}
+.pai__container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: ;
+    margin-top: 50px;
+    gap: 20px
+    ;}
+.nai__container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: ;
+    margin-top: 10px;
+    gap: 20px
+    ;
+    
+}
+.gai{
+    position: relative;
+}
+.tai__container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: ;
+    margin-top: 10px;
+    gap: 20px;
+}
+.tai{
+  position: relative;
+  top: 100px;
+}
+.pai{
+    position: relative;
+    top: 100px;
+  }
+.tai,.tai__container {
+    text-align: center;
+}
+
+.tai__container {
+    position: relative;
+    left: 310px;
+    top: 160px;
+}
+.pai__container {
+    position: relative;
+    left: 310px;
+    top: 160px;
+}
+.tai {
+    position: relative;
+}
+.pai {
+    position: relative;
+}
+.course-crad img {
+    width: 100%;
+    height: 60%;
+    border-radius: 10px;
+    gap: 10px;
+}
+.era{
+    position: absolute;
+    width: 40px;
+    right: 0px;
+left: 1270px;
+    top: 225px;
+    bottom: 10px;
+}
+.course-card{
+    width: 200px;
+    position: relative;
+    left: 100px;
+}
+.course-card img{
+    width: 100%;
+    height: 70%;
+    border-radius: 10px;
+}
+
+.course-crd{
+    width: 200px;
+    position: relative;
+    left: 100px;
+}
+.course-crd img{
+    width: 100%;
+    height: 60%;
+    border-radius: 10px;
+    gap: 10px
+    ;
+}
+.course-crad{
+    width: 200px;
+    position: relative;
+    left: 100px;
+}
+.course-crad img{
+    width: 100%;
+    height: 60%;
+    border-radius: 10px;
+    gap: 10px
+    ;
+}
+.course-craad{
+    width: 200px;
+    position: relative;
+    left: 100px;
+}
+.course-craad img{
+    width: 100%;
+    height: 60%;
+    border-radius: 10px;
+    gap: 10px
+    ;
+}
+
+
+.vai{
+    position: relative;
+   
+}.vai__title{
+   
+        position: absolute;
+       left: 420px;
+    
+}
+
+
+.vai,.vai__container{
+text-align: center;
+}
+
+.vai__container{
+    position: relative;
+    left: 300px;
+    top: 100px;
+
+}
+.pada{
+    position: relative;
+}
+.hs{
+    width: 200px;
+    position: absolute;
+    top: 400px;
+    left: 410px;
+}
+
+.vai__s1{
+    position: absolute;
+    top: 40px;
+    left: 410px
+    ;
+}
+.tai__s1{
+    position: absolute;
+    top: 40px;
+    left: 410px
+    ;
+}
+.vada{
+    position: 
+    ;
+}
+
+.nai{
+    position: relative;
+   
+}.nai__title{
+   
+        position: absolute;
+       left: 420px;
+       top: 50px;
+    
+}
+.tai__title{
+   
+    position: absolute;
+   left: 420px;
+   top: 50px;
+
+}
+.tai__s1{
+    position: absolute;
+ bottom: 20px;
+}
+
+.nai,.nai__container{
+text-align: center;
+}
+.nai__container{
+    position: relative;
+    left: 310px;
+    top: 140px;
+
+}.nai__s1{
+    position: absolute;
+   top: 80px;
+   left: 420px;
+   scroll-behavior: smooth;
+   
+}
+.george{
+    position: relative;
+}
+
+.area{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 270px;
+    top: 2px;
+}
+.arra{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 496px;
+    top: 2px;
+    
+}
+.ara{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 715px;
+    top: 2px;
+    
+}
+.araa{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 825px;
+    top: 2px;
+    
+}
+.arva{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 1030px;
+    top: 2px;
+    
+}
+.arsa{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 940px;
+    top: 2px;
+    
+}
+.footer{
+    padding: 30px;
+    background-color:#E5C3AA;
+    color: white;
+    margin-top: 400px;
+   
+}
+.footer__one{
+    display: flex;
+    gap: 10px;
+    position: relative;
+    left: 370px;
+}
+.footer__one p{
+    margin: 20px;
+}
+.footer__two{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    align-items: center;
+}
+.footer__one__s1 p:hover{
+     background-color: burlywood;
+     cursor: pointer;
+}
+.footer__one__s2 p:hover{
+    border-radius: 30px;
+     cursor: pointer;
+}
+
+.footer__one__s2{
+    position: relative;
+    left: 100px;
+    width: 250px;
+    height: fit-content;
+    text-align: center;
+    top: 60px;
+    border: white 2px solid;
+}
+.footer__one__s1{
+    position: relative;
+    left: 20px;
+}
+.hada{
+    width: 300px
+    ;
+}
+
+
+
+    @media screen and (max-width:600px) {
+     body{
+        font-size: 16px;
+     }
+        button{
+        display: none;
+     }
+   
+    .navbar{
+        width: 110%;
+    }
+     .visa{
+            position: relative;
+            width: 30px;
+            right: 60px;
+            top: 0px;
+            
+        }
+        .navbar__s1__title{
+            position: relative;
+            left: 150px;
+            
+        }
+        .w{
+            display: none;
+        }
+        .navbar__s2{
+            position: relative;
+            top: 10px;
+            right: 200px;
+            display: none;
+        }
+    
+        
+        .section{
+            position: relative;
+    
+        }
+        .cr7{
+            position: absolute;
+            width: 30px;
+            top: 15px
+            ;
+            left: 10px;
+        }
+        .placeholder{
+            left: 10px;
+        }
+        .p{
+            position: absolute;
+            top: 30px;
+            left: 50px;
+            background-color: #34E0A1;
+            border: 2px #34E0A1 solid;
+        }
+        hr{
+            width: 250px}
+        .vishn{
+            border: rgb(201, 181, 181) 2px solid;
+            text-align: 
+            center;
+            width: 350px;
+            border-radius: 10px
+            ;
+           position: relative;
+         
+        }
+        .msd{
+            margin-bottom: 10px;
+            position: relative
+            ;
+            left: 40px;
+            top: 10px;
+        border: none;
+        width: 100%;
+        font-size: 16px;
+        background-color: transparent;
+       margin-right: 10px;
+        padding: 10px;
+       
+    
+       
+        display:flex;
+        gap: 10px;
+        align-items: center;
+        
+       
+    }
+        
+    .ram{
+        background-color: #34E0A1;
+        border: #34E0A1 1px solid;
+        padding: 10px;
+        border-radius: 20px;
+        padding: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+        input:focus{
+        outline: none;
+    }
+  
+
+
+
+
+
+.msd{
+    padding-left: 10px;
+}
+
+.nai{
+    position: relative;
+}
+.nai__title{
+    position: absolute;
+left: 100px;
+}
+.nai__container{
+    position: absolute;
+    left: 0px;
+}.nai__s1{
+    position: absolute;
+    left: 100px;
+}
+.vai{
+    position: relative;
+    display: flex;
+}
+.tai{
+    position: relative;
+    display: flex;
+}
+.vai__title{
+    position: absolute;
+    left: 110px;
+}
+
+.vai__s1{
+    position: absolute;
+    left: 100px;
+}
+
+.vai__container{
+    position:relative;
+left:0px;
+top: 100px;
+
+}
+.tai__container{
+    position:relative;
+left:0px;
+top: 800px;
+
+}
+
+.vai__container{
+    display: flex;
+}
+.area{
+    display: none;
+}
+.arra{
+    display: none;
+}
+.ara{
+    display: none;
+}
+.arsa{
+    display: none;
+}
+.tai{
+    position: relative;
+
+}
+.duck{
+    position: relative;
+right:  80px;
+}
+
+
+    .section{
+        position: relative;
+    }
+    .cr7{
+        position: absolute;
+        width: 30px;
+        top: 15px
+        ;
+        left: 5px;
+        
+    }
+    .placeholder{
+        left: 10px;
+    }
+    .p{
+        position: absolute;
+        top: 30px;
+        left: 50px;
+        background-color: #34E0A1;
+        border: 2px #34E0A1 solid;
+    }
+    hr{
+        width: 250px}
+    .vishn{
+        border: rgb(201, 181, 181) 2px solid;
+        text-align: 
+        center;
+        width: 350px;
+        border-radius: 10px
+        ;
+      
+    }
+    .msd{
+        margin-bottom: 10px;
+        position: relative
+        ;
+        left: 40px;
+        top: 10px;
+    border: none;
+    width: 100%;
+    font-size: 16px;
+    background-color: transparent;
+   margin-right: 10px;
+    padding: 10px;
+   
+
+   
+    display:flex;
+    gap: 10px;
+    align-items: center;
+    
+   
+}
+    
+.ram{
+    background-color: #34E0A1;
+    border: #34E0A1 1px solid;
+    padding: 10px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+    input:focus{
+    outline: none;
+}
+.leo{
+    text-align: center;
+    position: relative;
+    left: 60px;
+}
+
+.tai__title{
+    position: absolute;
+    top: 750px;
+    left: 100px;
+}
+.tai__s1{
+    position: absolute;
+    top: 760px;
+}
+.footer{
+    position: relative;
+    top: 500px;
+    background-color: none
+    ;
+}
+.hada{
+    position: absolute;
+    width: 100px;
+}
+.footer{
+    display:none;
+}
+.booter{
+    position: relative;
+    top: 500px;
+}
+.booter{
+    padding: 30px;
+    background-color: black;
+    color: white;
+    position: relative;
+    : 100px;
+    left: 50px
+    ;
+}
+.cocunut{
+    position: relative;
+    left: 0px;
+    top: 800px;
+    width: 120%;
+}
+.sooter{
+    position: relative;
+}
+}
+
+.tai__s1{
+    position: relative;
+    top: 80px;
+    left: 500px;
+}
+
+    @media screen and (min-width:600px) {
+        .visa{
+            display: none;
+        }
+        .vishn{
+            display: none;
+        }
+       
+    }
+    .booter{
+        padding: 30px;
+        background-color: black;
+        color: white;
+        position: relative;
+        top: 100px;
+    }
+    .booter__one{
+        display: flex;
+        gap: 10px;
+    }
+    .booter__one p{
+        margin: 20px;
+    }
+    .booter__two{
+        display: flex;
+        justify-content: space-between;
+        margin: 20px;
+        align-items: center;
+    }
+    .booter__one__s1 p:hover{
+         background-color: burlywood;
+         cursor: pointer;
+    }
+    .booter__one__s2 p:hover{
+         background-color: burlywood;
+         cursor: pointer;
+    }
+    .select{
+        width: 500px;
+    }
+.sooter{
+    position: relative;
+    left: 15px;
+}
